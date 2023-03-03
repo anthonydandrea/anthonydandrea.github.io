@@ -1,2 +1,7 @@
 .DS_Store
 html5*
+Documentation
+*.zip
+out/
+.next
+node_modules
